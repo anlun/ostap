@@ -1,4 +1,4 @@
-1(*
+(*
  * Util: predefined Ostap utilities.
  * Copyright (C) 2006-2009
  * Dmitri Boulytchev, St.Petersburg State University
